@@ -1,16 +1,17 @@
 # Hidoop Project 
+Ce README a pour vocation de lister les répértoires du projet Hidoop.
 
-- Rep. Config : 
+- Rep Config : 
 
-- Rep. Data :
+- Rep Data :
 
-- Rep. Doc :
+- Rep Doc :
 
-- Rep. Src :
-	- S.Rep. Application :
-	- S.Rep. Formats :
-	- S.Rep. Map :
-	- S.Rep. Ordo :
-		S.S.rep. : Exceptions : 
-		
-	- S.Rep. Test :
+- Rep Src :
+	- Rep Application :
+	- Rep Formats :
+	- Rep Map :
+	- Rep Ordo : 
+	  - Rep Exceptions : 
+	  - Rep src
+	- Rep Test :
